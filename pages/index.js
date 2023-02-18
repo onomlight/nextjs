@@ -15,8 +15,7 @@ const DUMMY_MEETUPS = [
   {
     id: 'm2',
     title: ' A 2 meet up ',
-    imge:
-      'https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__340.jpg',
+    imge: ' ',
     address: ' 1234567',
     description: ' this is 2',
   },
